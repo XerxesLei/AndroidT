@@ -1,2 +1,3 @@
 rootProject.name='AndroidT'
-include ':app'
+include ':view'
+include ':http'
